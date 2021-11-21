@@ -124,7 +124,7 @@ body {
 	<body>
         <div id="container"></div>
         <div id="crosshair"></div>
-	    <script src="bundle.js"></script>
+	    <script src="world.js"></script>
 	</body>
 </html>
 ```
